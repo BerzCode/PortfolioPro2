@@ -1,9 +1,9 @@
-/* *Dark Mode*
+/* *Dark Mode toggle*
  */
 
  /* The switch - the box around the slider */
 #theme-toggle-button {
-  font-size: 17px;
+  font-size: 20px;
   display: flex;
   justify-content: center;
 
@@ -75,10 +75,12 @@
 }
 
 
-/* -------------------------------Dark mode-------------------------
+/* -------------------------------Dark mode toggle-------------------------
  *//* GENERAL */
 
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+ 
+
 
 * {
   margin: 0;
@@ -86,7 +88,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
 }
 
 html {
